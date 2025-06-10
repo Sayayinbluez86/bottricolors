@@ -1,0 +1,5 @@
+❌ Error: Nombre: JOHANITA | Usuario: JOHANITA00 | Clave: 1900
+❌ Error: Nombre: JOHANITA | Usuario: JOHANITA01 | Clave: 1901
+❌ Error: Nombre: JOHANITA | Usuario: JOHANITA02 | Clave: 1902
+❌ Error: Nombre: JOHANITA | Usuario: JOHANITA03 | Clave: 1903
+❌ Error: Nombre: JOHANITA | Usuario: JOHANITA04 | Clave: 1904
